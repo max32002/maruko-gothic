@@ -4,12 +4,16 @@
 
 Maruko gothic derived from ZenMaruGothic Regular.
 
-(目前緩慢地補字中...)
+(目前緩慢地補字中..., 每天增加幾個字，何時會有新的版本，只能隨緣...，第一階段是要完成4800個台灣常用字，初步是缺659字。)
 
-在完成補字前，可以先服用尚青的「生」版本，「生馬路口圓體」(Raw Maruko Gothic)是未經處理的版本，大多數的字應該不會怪怪的，歡迎回報有雜點或筆觸分叉的字，小編會再找時先使用別的「checkpoint」來重做。
-![生馬路口圓體CJK TC預覽](https://github.com/max32002/maruko-gothic/raw/master/preview/raw-maruko-cjktc-banner.png)
+在完成較漂亮版本的補字前，可以先服用尚青的「生」版本，「生馬路口圓體」(Raw Maruko Gothic)是未經處理的版本，大多數的字應該不會怪怪的，歡迎回報有雜點或筆觸分叉的字，小編會再找時先使用別的「checkpoint」來重做。
+![生馬路口圓體CJK TC預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/raw-maruko-cjktc-banner.png)
 
-要如何使用電腦做筆跡學習，參考看看這篇文章：[AI造字經驗分享](https://max-everyday.com/2021/07/zi2zi-ai-font/)
+### 使用電腦做筆跡學習
+參考看看這篇文章：
+
+[AI造字經驗分享](https://max-everyday.com/2021/07/zi2zi-ai-font/)
+
 [https://max-everyday.com/2021/07/zi2zi-ai-font/](https://max-everyday.com/2021/07/zi2zi-ai-font/)
 
 ### 字體後面的 SC,JP,TC是什意思？
@@ -36,7 +40,7 @@ Maruko gothic derived from ZenMaruGothic Regular.
 
 ## 已知問題
 
-* 這不是一個專業的字型檔案。
+* 這是一個非常不專業的字型檔案。
 
 ## 著作權與授權
 
@@ -177,6 +181,8 @@ https://max-everyday.com/2020/06/swei-meatball/
 https://max-everyday.com/2020/04/swei-spring/
 
 其他字體：
+* 馬路口圓體 Maruko Gothic
+https://max-everyday.com/2021/07/maruko-gothic/
 * 苦累蛙圓體 Kurewa Gothic
 https://max-everyday.com/2021/06/kurewa-gothic/
 * 何某手寫體 Nani Font
