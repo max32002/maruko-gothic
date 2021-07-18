@@ -26,6 +26,8 @@ Maruko gothic derived from ZenMaruGothic Regular.
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
 
+「生」系列的未經處理的版本的字型，放在 "raw" 的目錄下。
+
 ## 網頁字型(Web Font)服務
 
 網頁字型用於網頁上的字型顯示，訪客不需預先安裝字型檔，一樣能夠看到特殊的字型效果。不只是電腦，在智慧型手機和平板裝置的瀏覽器上也可正常顯示。實現該功能的原理是在瀏覽時才下載字型檔。
