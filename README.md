@@ -26,7 +26,7 @@ Maruko gothic derived from ZenMaruGothic Regular.
 
 * 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
 * 「生」系列的未經處理的版本的字型，放在 "raw" 的目錄下。
-* 「生」系列字型，預設不包含韓文字型，有韓文字的字型檔，檔案名稱裡會包含「-With-Korea」字樣。
+* 有包含韓文的諺文音節 (Hangul Syllables)的字型檔，檔案名稱裡會包含「-With-Korea」字樣。
 
 ## 網頁字型(Web Font)服務
 
