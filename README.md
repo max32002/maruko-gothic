@@ -9,14 +9,14 @@ Maruko gothic derived from ZenMaruGothic Regular.
 在完成較漂亮版本的補字前，可以先服用尚青的「生」版本，「生馬路口圓體」(Raw Maruko Gothic)是未經處理的版本，大多數的字應該不會怪怪的，歡迎回報有雜點或筆觸分叉的字，小編會再找時先使用別的「checkpoint」來重做。
 ![生馬路口圓體CJK TC預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/raw-maruko-cjktc-banner.png)
 
-### 使用電腦做筆跡學習
+## 使用電腦做筆跡學習
 參考看看這篇文章：
 
 [AI造字經驗分享](https://max-everyday.com/2021/07/zi2zi-ai-font/)
 
 [https://max-everyday.com/2021/07/zi2zi-ai-font/](https://max-everyday.com/2021/07/zi2zi-ai-font/)
 
-### 字體後面的 SC,JP,TC是什意思？
+## 字體後面的 SC,JP,TC是什意思？
 * SC是 Simplified Chinese 简体中文，代表大陸習慣字形。
 * TC是 Traditional Chinese 繁体中文，代表港台習慣的字形。
 * JP是 Japanese 日文，代表日本習慣字形。
@@ -208,5 +208,7 @@ https://codereview.max-everyday.com/font-readme/
 
 ## 贊助Max
 
-很高興可以替中華民國美學盡一分心力、讓台灣擁有更好的文字風景，希望能提供另一種美學讓大家選擇，如果你覺得這篇文章寫的很好，想打賞Max，贊助方式如下：
+很高興可以替中華民國美學盡一分心力、讓台灣擁有更好的文字風景，希望能提供另一種美學讓大家選擇。
+
+如果你想支持或打賞Max，贊助方式如下：
 https://max-everyday.com/about/#donate
