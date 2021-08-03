@@ -77,6 +77,10 @@ https://max-everyday.com/2020/11/swei-fan-sans/
 https://max-everyday.com/2020/11/swei-fan-serif/
 
 獅尾黑體家族：
+* 獅尾右下腿黑體 Swei Right Bottom Leg
+https://max-everyday.com/2021/08/swei-right-bottom-leg/
+* 獅尾右下圓黑體 Swei Right Bottom Sans
+https://max-everyday.com/2021/08/swei-right-bottom-sans/
 * 獅尾飛腿黑體 Swei Dart Leg
 https://max-everyday.com/2020/11/swei-dart-leg/
 * 獅尾飛鏢黑體 Swei Dart Sans
