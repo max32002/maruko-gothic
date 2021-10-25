@@ -1,6 +1,6 @@
 # 馬路口圓體 Maruko Gothic
 
-馬路口圓體是ZenMaruGothic字體(目前該github計畫已被關閉)的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
+馬路口圓體是[ZenMaruGothic字體]((https://github.com/googlefonts/zen-kurenaido))的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
 Maruko gothic derived from ZenMaruGothic Regular.
 
@@ -10,11 +10,9 @@ Maruko gothic derived from ZenMaruGothic Regular.
 ![生馬路口圓體CJK TC預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/raw-maruko-cjktc-banner.png)
 
 ## 使用電腦做筆跡學習
-參考看看這篇文章：
+參考看看分享文章：
 
-[AI造字經驗分享](https://max-everyday.com/2021/07/zi2zi-ai-font/)
-
-[https://max-everyday.com/2021/07/zi2zi-ai-font/](https://max-everyday.com/2021/07/zi2zi-ai-font/)
+* [AI造字經驗分享]  [https://max-everyday.com/2021/07/zi2zi-ai-font/](https://max-everyday.com/2021/07/zi2zi-ai-font/)
 
 ## 字體後面的 SC,JP,TC是什意思？
 * SC是 Simplified Chinese 简体中文，代表大陸習慣字形。
