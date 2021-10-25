@@ -4,7 +4,11 @@
 
 Maruko gothic derived from ZenMaruGothic Regular.
 
-(目前緩慢地補字中..., 每天增加幾個字，何時會有新的版本，只能隨緣...，第一階段是要完成4800個台灣常用字，初步是缺659字。)
+檔案下載：
+目前緩慢地補字中..., 沒有下載點。每天增加幾個字，何時會有新的版本，只能隨緣...，第一階段是要完成4800個台灣常用字，初步是缺659字。
+
+原版Google Font ：
+https://github.com/googlefonts/zen-marugothic
 
 在完成較漂亮版本的補字前，可以先服用尚青的「生」版本，「生馬路口圓體」(Raw Maruko Gothic)是未經處理的版本，大多數的字應該不會怪怪的，歡迎回報有雜點或筆觸分叉的字，小編會再找時先使用別的「checkpoint」來重做。
 ![生馬路口圓體CJK TC預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/raw-maruko-cjktc-banner.png)
