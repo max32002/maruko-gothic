@@ -39,11 +39,11 @@ https://github.com/googlefonts/zen-marugothic
 ```
 @font-face {
   font-family: RawMarukoGothicCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.001/webfont/raw/CJK%20TC/RawMarukoGothicCjpTc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.001/webfont/raw/CJK%20TC/RawMarukoGothicCjkTc-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: RawMarukoGothicCJKjp-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.001/webfont/raw/CJK%20JP/RawMarukoGothicCjpJp-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.001/webfont/raw/CJK%20JP/RawMarukoGothicCjkJp-Regular.woff2) format("woff2");
 }
 ```
 
