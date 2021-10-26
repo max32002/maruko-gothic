@@ -35,7 +35,7 @@ https://github.com/googlefonts/zen-marugothic
 
 網頁字型用於網頁上的字型顯示，訪客不需預先安裝字型檔，一樣能夠看到特殊的字型效果。不只是電腦，在智慧型手機和平板裝置的瀏覽器上也可正常顯示。實現該功能的原理是在瀏覽時才下載字型檔。
 
-「生」系的體驗版，可以服用下面的css:
+「生」系的體驗版，可以服用下面的css: （目前無法套用下面的 url, 因為超過單檔50mb 上限，會再找時間做一個精簡版，只放常用字）
 ```
 @font-face {
   font-family: RawMarukoGothicCJKtc-Regular;
