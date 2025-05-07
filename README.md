@@ -14,6 +14,7 @@ https://github.com/googlefonts/zen-marugothic
 參考看看分享文章：
 
 * [AI造字經驗分享]  [https://max-everyday.com/2021/07/zi2zi-ai-font/](https://max-everyday.com/2021/07/zi2zi-ai-font/)
+* [Max字體筆記] [https://codereview.max-everyday.com/font-readme/](https://codereview.max-everyday.com/font-readme/)
 
 ## 字體後面的 SC,JP,TC是什意思？
 * SC是 Simplified Chinese 简体中文，代表大陸習慣字形。
@@ -44,9 +45,9 @@ https://github.com/googlefonts/zen-marugothic
 ## 已知問題
 
 * 這是一個非常不專業的字型檔案。
-* 部份文字的部件的規則會有衝突, 例如: 子了與承, 外型相似, 但套用規則不同, 也造成判斷上會出問題。
-* CJKtc 都份的部件, 因為懶的去改, 所以使用了 CJKjp 的規則, 例如: 金部件的上方CJKtc 都會多出一個小尾巴, CJKjp 沒尾巴。
-* 由於幾乎都是電腦推論產生的的圖片, 所以目前無法使用在高解析度的輸出, 文字大小超過 48px 會看出破綻, 直線可能變階梯形狀(staircase), 歡迎好心人二次創作, 產生更高品質的版本。
+* 部份文字的部件的規則會有衝突, 例如: 在原作者的世界裡 "子了承" 外型相似, 但套用規則不同, 也造成使用程式推論notosan 為 zen maru 的結果上會出問題。
+* 雖然是 CJKtc 版本的字型, 理論上應該都套用 CJKtc 規則的部件, 因為懶的去改, 所以使用了 CJKjp 的規則, 例如: 金部件的上方CJKtc 都會多出一個小尾巴, CJKjp 沒尾巴, 結論就是畫面上出現的一堆金部的字, 會有一些長的不一致...。
+* 目前字體幾乎都是電腦使用notosans 推論為 zen maru產生的的字形, 所以很粗糙, 不建議使用在高解析度的輸出, 文字大小超過 48px 會看出破綻, 直線可能變階梯形狀(staircase), 期待好心人二次創作, 產生更高品質的版本。
 
 ## 著作權與授權
 
