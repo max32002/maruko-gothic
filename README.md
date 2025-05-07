@@ -1,18 +1,14 @@
 # 馬路口圓體 Maruko Gothic
 
-馬路口圓體是[ZenMaruGothic字體]((https://github.com/googlefonts/zen-kurenaido))的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
+馬路口圓體是[ZenMaruGothic字體]((https://github.com/googlefonts/zen-kurenaido))的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字(大約3萬多字)、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
 Maruko gothic derived from ZenMaruGothic Regular.
-
-檔案下載：
-* 正式版：目前緩慢地補字中..., 沒有下載點。每天增加幾個字，何時會有新的版本，只能隨緣...，第一階段是要完成4800個台灣常用字，初步是缺659字。
-* 體驗版：在完成較漂亮版本的補字前，在 raw 目錄下有尚青的「生」的體驗版本，「生馬路口圓體」(Raw Maruko Gothic)是未經處理的版本，大多數的字應該不會怪怪的，歡迎回報有雜點或筆觸分叉的字，小編會再找時重做。
 
 原版Google Font ：
 https://github.com/googlefonts/zen-marugothic
 
 
-![生馬路口圓體CJK TC預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/raw-maruko-cjktc-banner.png)
+![馬路口圓體CJK TC預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/maruko-cjktc-banner.jpg)
 
 ## 使用電腦做筆跡學習
 參考看看分享文章：
@@ -28,18 +24,16 @@ https://github.com/googlefonts/zen-marugothic
 ## 下載字型
 
 * 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
-* 「生」系列的未經處理的版本的字型，放在 "raw" 的目錄下。
-* 有包含韓文的諺文音節 (Hangul Syllables)的字型檔，檔案名稱裡會包含「-With-Korea」字樣。
 
 ## 網頁字型(Web Font)服務
 
 網頁字型用於網頁上的字型顯示，訪客不需預先安裝字型檔，一樣能夠看到特殊的字型效果。不只是電腦，在智慧型手機和平板裝置的瀏覽器上也可正常顯示。實現該功能的原理是在瀏覽時才下載字型檔。
 
-「生」系的體驗版，可以服用下面的css: （目前無法套用下面的 url, 因為超過單檔50mb 上限，會再找時間做一個精簡版，只放常用字）
+可以服用下面的css: 
 ```
 @font-face {
-  font-family: RawMarukoGothicCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.001/webfont/raw/CJK%20TC/RawMarukoGothicCjkTc-Regular.woff2) format("woff2");
+  font-family: MarukoGothicCJKtc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.002/webfont/CJK%20TC/MarukoGothicCjkTc-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: RawMarukoGothicCJKjp-Regular;
@@ -50,6 +44,9 @@ https://github.com/googlefonts/zen-marugothic
 ## 已知問題
 
 * 這是一個非常不專業的字型檔案。
+* 部份文字的部件的規則會有衝突, 例如: 子了與承, 外型相似, 但套用規則不同, 也造成判斷上會出問題。
+* CJKtc 都份的部件, 因為懶的去改, 所以使用了 CJKjp 的規則, 例如: 金部件的上方CJKtc 都會多出一個小尾巴, CJKjp 沒尾巴。
+* 由於幾乎都是電腦推論產生的的圖片, 所以目前無法使用在高解析度的輸出, 文字大小超過 48px 會看出破綻, 直線可能變階梯形狀(staircase), 歡迎好心人二次創作, 產生更高品質的版本。
 
 ## 著作權與授權
 
