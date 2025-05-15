@@ -33,12 +33,16 @@ https://github.com/googlefonts/zen-marugothic
 可以服用下面的css: 
 ```
 @font-face {
-  font-family: MarukoGothicCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.002/webfont/CJK%20TC/MarukoGothicCjkTc-Regular.woff2) format("woff2");
+  font-family: MarukoGothicCJKjp-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.002/webfont/raw/CJK%20JP/MarukoGothicCJKjp-Regular.woff2) format("woff2");
 }
 @font-face {
-  font-family: RawMarukoGothicCJKjp-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.001/webfont/raw/CJK%20JP/RawMarukoGothicCjkJp-Regular.woff2) format("woff2");
+  font-family: MarukoGothicCJKtc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.002/webfont/CJK%20TC/MarukoGothicCJKtc-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: MarukoGothicCJKtc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.002/webfont/CJK%20SC/MarukoGothicCJKsc-Regular.woff2) format("woff2");
 }
 ```
 
