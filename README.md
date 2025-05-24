@@ -1,6 +1,6 @@
 # 馬路口圓體 Maruko Gothic
 
-馬路口圓體是[ZenMaruGothic字體]((https://github.com/googlefonts/zen-kurenaido))的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字(大約3萬多字)、增加一些符號。可以免費商用，歡迎大家自由應用、自由優化、自由改作！
+馬路口圓體是[ZenMaruGothic字體]((https://github.com/googlefonts/zen-kurenaido))的補字計畫。與原作者的主要差異是調整部件寫法、新增中文字(大約3萬多字)、增加一些符號。可以免費商用，歡迎大家自由使用與改作。
 
 Maruko gothic derived from ZenMaruGothic Regular.
 
