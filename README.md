@@ -8,7 +8,9 @@ Maruko gothic derived from ZenMaruGothic Regular.
 https://github.com/googlefonts/zen-marugothic
 
 
-![馬路口圓體CJK TC預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/maruko-cjktc-banner.jpg)
+![馬路口圓體CJK TC Regular 預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/maruko-cjktc-banner.jpg)
+
+![馬路口圓體CJK TC Medium 預覽](https://github.com/max32002/maruko-gothic/raw/main/preview/maruko-cjktc-banner-medium.jpg)
 
 ## 使用電腦做筆跡學習
 參考看看分享文章：
