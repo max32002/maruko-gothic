@@ -30,19 +30,35 @@ https://github.com/googlefonts/zen-marugothic
 
 網頁字型用於網頁上的字型顯示，訪客不需預先安裝字型檔，一樣能夠看到特殊的字型效果。不只是電腦，在智慧型手機和平板裝置的瀏覽器上也可正常顯示。實現該功能的原理是在瀏覽時才下載字型檔。
 
-可以服用下面的css: 
+Reqular 字重可以服用下面的css: 
 ```
 @font-face {
   font-family: MarukoGothicCJKjp-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.004/webfont/CJK%20JP/MarukoGothicCJKjp-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.005/webfont/CJK%20JP/MarukoGothicCJKjp-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: MarukoGothicCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.004/webfont/CJK%20TC/MarukoGothicCJKtc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.005/webfont/CJK%20TC/MarukoGothicCJKtc-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: MarukoGothicCJKsc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.004/webfont/CJK%20SC/MarukoGothicCJKsc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.005/webfont/CJK%20SC/MarukoGothicCJKsc-Regular.woff2) format("woff2");
+}
+```
+
+Medium 字重可以服用下面的css: 
+```
+@font-face {
+  font-family: MarukoGothicCJKjp-Medium;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.005/webfont/CJK%20JP/MarukoGothicCJKjp-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: MarukoGothicCJKtc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.005/webfont/CJK%20TC/MarukoGothicCJKtc-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: MarukoGothicCJKsc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.005/webfont/CJK%20SC/MarukoGothicCJKsc-Medium.woff2) format("woff2");
 }
 ```
 
