@@ -41,15 +41,15 @@ Reqular 字重可以服用下面的css:
 ```
 @font-face {
   font-family: MarukoGothicCJKjp-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20JP/MarukoGothicCJKjp-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20JP/MarukoGothicCJKjp-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: MarukoGothicCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20TC/MarukoGothicCJKtc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20TC/MarukoGothicCJKtc-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: MarukoGothicCJKsc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20SC/MarukoGothicCJKsc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20SC/MarukoGothicCJKsc-Regular.woff2) format("woff2");
 }
 ```
 
@@ -57,15 +57,15 @@ Medium 字重可以服用下面的css:
 ```
 @font-face {
   font-family: MarukoGothicCJKjp-Medium;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20JP/MarukoGothicCJKjp-Medium.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20JP/MarukoGothicCJKjp-Medium.woff2) format("woff2");
 }
 @font-face {
   font-family: MarukoGothicCJKtc-Medium;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20TC/MarukoGothicCJKtc-Medium.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20TC/MarukoGothicCJKtc-Medium.woff2) format("woff2");
 }
 @font-face {
   font-family: MarukoGothicCJKsc-Medium;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20SC/MarukoGothicCJKsc-Medium.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20SC/MarukoGothicCJKsc-Medium.woff2) format("woff2");
 }
 ```
 
@@ -73,15 +73,15 @@ Light 字重可以服用下面的css:
 ```
 @font-face {
   font-family: MarukoGothicCJKjp-Light;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20JP/MarukoGothicCJKjp-Light.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20JP/MarukoGothicCJKjp-Light.woff2) format("woff2");
 }
 @font-face {
   font-family: MarukoGothicCJKtc-Light;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20TC/MarukoGothicCJKtc-Light.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20TC/MarukoGothicCJKtc-Light.woff2) format("woff2");
 }
 @font-face {
   font-family: MarukoGothicCJKsc-Light;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.007/webfont/CJK%20SC/MarukoGothicCJKsc-Light.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@1.008/webfont/CJK%20SC/MarukoGothicCJKsc-Light.woff2) format("woff2");
 }
 ```
 ## 已知問題
